@@ -1,4 +1,4 @@
 *.hcl
 *.json
 *.backup
-*.terraform
+.terraform/
