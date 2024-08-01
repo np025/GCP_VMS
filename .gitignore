@@ -1,4 +1,5 @@
 *.hcl
 *.json
 *.backup
-.terraform/
+linux_vm/.terraform/
+windows_vm/.terraform/
